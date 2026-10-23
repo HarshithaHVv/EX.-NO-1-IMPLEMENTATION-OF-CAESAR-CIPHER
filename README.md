@@ -48,7 +48,7 @@ int main() {
 
 
 ## OUTPUT:
-<img width="1600" height="807" alt="WhatsApp Image 2026-10-23 at 9 26 47 AM" src="https://github.com/user-attachments/assets/5c0b0cba-b662-4413-a1d0-8a0cfb3a3116" />
+<img width="1600" height="755" alt="WhatsApp Image 2026-10-23 at 9 26 47 AM (1)" src="https://github.com/user-attachments/assets/cad535fe-f561-4c1f-94ee-6c29c0ed9ac0" />
 
 
 
